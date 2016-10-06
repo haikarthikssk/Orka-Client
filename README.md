@@ -1,7 +1,7 @@
 # Orka-Client
 Raspberry Pi Client Controller
 
-# To Run :
+### To Run :
 1. git clone https://github.com/haikarthikssk/Orka-Client.git
 2. cd Orka-Client
 3. ** npm install & npm start**
